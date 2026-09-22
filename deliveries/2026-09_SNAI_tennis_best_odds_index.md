@@ -135,3 +135,27 @@ Principio: il colore del brief arriva da una vera sorgente di luce di scena (pro
 |---|----------|-------------|-----|
 | T14 | Controluce fuori campo | Proiettore con gel turchese alto dietro la baseline lontana: fondo campo che schiarisce verso turchese-bianco, primo piano navy, pallina con rim turchese e key bianca; bloom solo al bordo alto | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101011_3266dd62-987b-49c0-a219-9540506fb348.png |
 | T15 | Sorgenti visibili | Tre spot d'arena visibili sopra gli spalti spenti, bloom turchese realistico e fasci stretti nella foschia sul fondo campo; pallina con key bianca e rim turchese | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101012_d3157ab9-8bb6-4595-ac5f-99b08e7bf724.png |
+
+---
+
+# SERIE 8 – Coerenza con le approvate Shanghai (arena wide) e Six Kings Slam (top-down campo)
+
+Metodo: le due grafiche approvate sono state caricate su Higgsfield come image reference; ogni nuova immagine replica stile, inquadratura, ottica e grading della approvata corrispondente cambiando solo l'identità del torneo (colore campo, bordo, tinta della luce). Niente LED, niente bagliori dipinti.
+
+## Famiglia A – Arena wide (da Shanghai)
+
+| # | Torneo | Variante | PNG |
+|---|--------|----------|-----|
+| P34 | Parigi | Stessa inquadratura di Shanghai: campo verde scuro centrato, run-off nero, grading monocromo verde scuro/nero, tilt-shift sugli spalti | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101646_2de56a52-7d00-4437-b7b6-c86af1f58af1.png |
+| P35 | Parigi | Punto di vista spostato all'angolo della tribuna alta, campo in basso a destra, stessa resa | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101646_9843b41d-b81c-493b-bd3f-51fecc3706c6.png |
+| T16 | Torino | Stessa inquadratura di Shanghai: campo blu ATP, run-off navy, grading navy/blu notte più profondo, spot con tinta turchese | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101647_ad59b86c-8483-4f1e-ac8c-ea09c522f513.png |
+| T17 | Torino | Punto di vista all'angolo della tribuna alta, campo in basso a destra, stessa resa | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101646_589dd03d-8bb9-4529-92bc-ab889eb4e1c1.png |
+
+## Famiglia B – Top-down campo con racchetta e pallina (da Six Kings Slam)
+
+| # | Torneo | Variante | PNG |
+|---|--------|----------|-----|
+| P36 | Parigi | Campo verde scuro texturizzato, ombre nere, luce radente bianca fredda con leggera dominante verde (al posto del sole dorato) | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101951_969489f9-4e52-4940-8f78-b380bb83210d.png |
+| P37 | Parigi | Come sopra ma la luce radente arriva da uno spot d'arena con gel verde: alte luci smeraldo su campo, corde e telaio, ombre quasi nere | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101647_ad9d2cd1-0102-4abd-af4e-821750f74fe2.png |
+| T18 | Torino | Campo blu notte/navy più scuro dell'originale, ombre blu notte, luce radente turchese-bianca | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101951_33ef5a59-75a9-4967-a0fc-c0f69f6cf013.png |
+| T19 | Torino | Campo blu ATP con stessa grana, ombre navy, luce radente da spot con gel turchese e caduta naturale | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101951_023457f7-fc51-409c-a84a-2898914a1139.png |
