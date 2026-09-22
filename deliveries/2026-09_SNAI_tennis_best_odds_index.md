@@ -181,3 +181,16 @@ Interpretazione del feedback: SNAI vuole le stesse due scene (Parigi palo rete +
 | T20 | Grade unificato navy/blu notte su tutta la foto, turchese solo nelle alte luci più chiare | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_103111_396975a2-f196-43df-a4c8-8857f235cba1.png |
 | T21 | Tinta portata dalla luce esistente: alte luci turchesi su feltro della pallina, linea e campo, resto navy | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_103108_59c48990-5190-43bb-825a-e8d88c290711.png |
 | T22 | Grade bilanciato + pochi spot d'arena piccoli e nitidi in alto, come in Shanghai | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_103108_d25b37de-ed5a-4f98-9857-493abf9961b9.png |
+
+---
+
+# SERIE 10 – ATP Finals Torino, livello premium (art direction nuova)
+
+Motivo: la scena "pallina sulla baseline" resta piatta anche con il grading giusto. Qui si alza la qualità di luce, texture e momento, con reference doppia (immagine promossa da SNAI per soggetto e palette + Six Kings Slam per il livello di craft). Niente LED, niente nebbie; luce direzionale scolpita, micro-contrasto, profondità.
+
+| # | Concept | Cosa lo rende premium | PNG |
+|---|---------|------------------------|-----|
+| T23 | Baseline hero | Camera a filo campo, linea in diagonale che fugge nel buio, pallina nitidissima, key fredda dall'alto + controluce turchese che disegna il rim, ombra lunga e polvere nel fascio, sheen turchese sulla grana del campo | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_105539_e9a42fbc-2542-4940-9889-3e554908d7e0.png |
+| T24 | Top-down racchetta (Six Kings in navy) | Stessa composizione e craft della approvata: grana asfalto, ombra netta delle corde da luce radente turchese-bianca, campo blu notte, ombre blu notte | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_105540_10d2d879-0b14-49bc-94f6-3f69177716f1.png |
+| T25 | Il rimbalzo | Pallina congelata a pochi cm dalla baseline dopo l'impatto, esplosione fine di polvere e fibre in controluce turchese, segno di compressione sulla linea: momento, non posa | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_105540_226c5d8a-116a-4c4c-b8ae-9c7c56eb9b8e.png |
+| T26 | Al palo della rete | Pallina alla base del palo sulla linea laterale, 135mm, rete che fugge fuori fuoco, un solo spot freddo che scolpisce palo, nastro e feltro; turchese solo nelle alte luci lontane | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_105539_aec79845-27d6-43cb-91f4-cef94856e9ce.png |
