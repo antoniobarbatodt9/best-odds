@@ -115,3 +115,23 @@ Regole derivate dal feedback: (1) nessuna striscia/fascia LED, nessun bokeh a pu
 | T11 | Fedele | Stessa scena; fascia LED rimossa; gradiente navy → blu notte con bagliore turchese diffuso in basso | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_094259_006ad252-21a7-4dfb-8362-8c4c82180a9f.png |
 | T12 | Atmosferica | Più scura; foschia turchese sul fondo campo, bloom radiale dietro la pallina, rim light turchese sul bordo alto della pallina, vignetta navy | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_094259_8eb6c66b-eb03-4e03-ab6c-ad9d4d0ab0c7.png |
 | T13 | Reinterpretata | Stesso soggetto; sfondo puro gradiente blu notte → navy con ampio bagliore turchese diffuso dietro la pallina | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_094259_76072cd8-8f19-4229-8f2b-79c597805f0f.png |
+
+---
+
+# SERIE 7 – Luce motivata (relighting fotografico, niente "nuvole")
+
+Principio: il colore del brief arriva da una vera sorgente di luce di scena (proiettore d'arena con gel colorato), con caduta di luce naturale sul campo, bloom dell'ottica solo dove entra la sorgente, foschia solo dentro il fascio, spalti spenti. La scena, il soggetto e l'inquadratura restano quelli scelti da SNAI.
+
+## Masters 1000 Parigi (da P28)
+
+| # | Variante | Schema luce | PNG |
+|---|----------|-------------|-----|
+| P32 | Controluce fuori campo | Proiettore con gel verde alto dietro il fondo campo, appena fuori dal bordo superiore: campo lontano illuminato, primo piano nero, rete e nastro con rim verde, bloom realistico solo al bordo alto | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101011_65dca2ed-06cc-4c4b-bddb-941f9a0b8439.png |
+| P33 | Sorgente visibile | Un solo spot d'arena visibile in alto a destra sopra gli spalti spenti, starburst verde e fascio stretto nella foschia che crea una pozza di luce sul campo dietro la rete; palo e racchetta in silhouette con rim | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101011_d05d81f5-df1c-44ff-9317-b7e2e3a4301f.png |
+
+## ATP Finals Torino (da T7)
+
+| # | Variante | Schema luce | PNG |
+|---|----------|-------------|-----|
+| T14 | Controluce fuori campo | Proiettore con gel turchese alto dietro la baseline lontana: fondo campo che schiarisce verso turchese-bianco, primo piano navy, pallina con rim turchese e key bianca; bloom solo al bordo alto | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101011_3266dd62-987b-49c0-a219-9540506fb348.png |
+| T15 | Sorgenti visibili | Tre spot d'arena visibili sopra gli spalti spenti, bloom turchese realistico e fasci stretti nella foschia sul fondo campo; pallina con key bianca e rim turchese | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101012_d3157ab9-8bb6-4595-ac5f-99b08e7bf724.png |

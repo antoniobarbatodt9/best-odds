@@ -30,3 +30,8 @@ Usa questo file quando l'utente parla di SNAI, tennis, Parigi/Torino o "le grafi
 - Regola: mai fasce/strisce LED o bokeh a punti; lo sfondo è un gradiente morbido con bloom diffuso nel colore del brief (Parigi verde scuro su nero, Torino turchese tenue su navy/blu notte); la scena scelta dal cliente non si tocca.
 - Tecnica: edit con `nano_banana_pro` passando il `job_id` dell'immagine scelta come `image_references` e prompt "Edit the reference image while keeping its exact composition ... remove ... replace the background with a smooth gradient and diffuse glow". Tre gradi: fedele, atmosferica, reinterpretata.
 - Nota operativa: due job del batch sono rimasti "in_progress" oltre 5 minuti; rilanciati come nuovi job con stesso prompt (funziona, non attendere all'infinito).
+
+## Feedback utente del 22/09 (serie 7): il bagliore deve essere motivato
+- Le varianti a "sfumatura/bagliore" della serie 6 sono state bocciate dall'utente: "nubi buttate lì", senza significato tecnico di design.
+- Regola di design: il colore del brief entra come luce di scena reale (proiettore d'arena con gel colorato, fuori campo o visibile come punto luce), con caduta naturale sul campo, rim light sugli oggetti, bloom dell'ottica solo dove entra la sorgente, foschia solo dentro il fascio, spalti spenti. Mai gradienti dipinti, fog o smoke generici.
+- Prompt pattern: "Relight the scene like a professional sports photographer: one floodlight fitted with a <colour> gel mounted high behind ..., pointing back toward the camera ... natural falloff ... restrained realistic lens bloom ... no fog clouds, no smoke, no painted glow".
