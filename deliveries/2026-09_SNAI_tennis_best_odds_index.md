@@ -159,3 +159,25 @@ Metodo: le due grafiche approvate sono state caricate su Higgsfield come image r
 | P37 | Parigi | Come sopra ma la luce radente arriva da uno spot d'arena con gel verde: alte luci smeraldo su campo, corde e telaio, ombre quasi nere | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101647_ad9d2cd1-0102-4abd-af4e-821750f74fe2.png |
 | T18 | Torino | Campo blu notte/navy più scuro dell'originale, ombre blu notte, luce radente turchese-bianca | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101951_33ef5a59-75a9-4967-a0fc-c0f69f6cf013.png |
 | T19 | Torino | Campo blu ATP con stessa grana, ombre navy, luce radente da spot con gel turchese e caduta naturale | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_101951_023457f7-fc51-409c-a84a-2898914a1139.png |
+
+---
+
+# SERIE 9 – Le due grafiche scelte, corrette con il "filtro" delle approvate (Shanghai / Six Kings Slam)
+
+Interpretazione del feedback: SNAI vuole le stesse due scene (Parigi palo rete + racchetta; Torino pallina sulla baseline) senza strisce LED, con un trattamento cromatico naturale che unifichi l'atmosfera, come il tono blu di Shanghai o la luce calda del Six Kings: un color grade su una foto vera, non una luce aggiunta né una nebbia. Generate in edit con doppia reference (immagine da correggere + approvata come riferimento di grading). Al posto dei LED: parete perimetrale e tribune vuote fuori fuoco, come in una vera arena.
+
+## Masters 1000 Parigi (da P28)
+
+| # | Trattamento | PNG |
+|---|-------------|-----|
+| P38 | Grade unificato verde scuro su tutta la foto (come il blu monocromo di Shanghai), sfondo naturale dell'arena | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_103108_99a1e3de-09d7-408c-8356-b30e64b9e80b.png |
+| P39 | Tinta portata dalla luce esistente (come la luce calda del Six Kings): alte luci con dominante verde su nastro, telaio e campo, ombre nere | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_103111_98e23228-09a0-4810-ae52-e3a6b51ebaf4.png |
+| P40 | Grade bilanciato + pochi spot d'arena piccoli e nitidi in alto, come in Shanghai | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_103110_7b56a0ae-aa9c-4d5f-a4d7-f090ee0b9f88.png |
+
+## ATP Finals Torino (da T7)
+
+| # | Trattamento | PNG |
+|---|-------------|-----|
+| T20 | Grade unificato navy/blu notte su tutta la foto, turchese solo nelle alte luci più chiare | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_103111_396975a2-f196-43df-a4c8-8857f235cba1.png |
+| T21 | Tinta portata dalla luce esistente: alte luci turchesi su feltro della pallina, linea e campo, resto navy | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_103108_59c48990-5190-43bb-825a-e8d88c290711.png |
+| T22 | Grade bilanciato + pochi spot d'arena piccoli e nitidi in alto, come in Shanghai | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_103108_d25b37de-ed5a-4f98-9857-493abf9961b9.png |
