@@ -194,3 +194,16 @@ Motivo: la scena "pallina sulla baseline" resta piatta anche con il grading gius
 | T24 | Top-down racchetta (Six Kings in navy) | Stessa composizione e craft della approvata: grana asfalto, ombra netta delle corde da luce radente turchese-bianca, campo blu notte, ombre blu notte | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_105540_10d2d879-0b14-49bc-94f6-3f69177716f1.png |
 | T25 | Il rimbalzo | Pallina congelata a pochi cm dalla baseline dopo l'impatto, esplosione fine di polvere e fibre in controluce turchese, segno di compressione sulla linea: momento, non posa | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_105540_226c5d8a-116a-4c4c-b8ae-9c7c56eb9b8e.png |
 | T26 | Al palo della rete | Pallina alla base del palo sulla linea laterale, 135mm, rete che fugge fuori fuoco, un solo spot freddo che scolpisce palo, nastro e feltro; turchese solo nelle alte luci lontane | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_105539_aec79845-27d6-43cb-91f4-cef94856e9ce.png |
+
+---
+
+# SERIE 11 – ATP Finals Torino: correzione sulla grafica base fornita dall'utente (inquadratura intatta)
+
+Base: la grafica caricata dall'utente (pallina sulla baseline, arena piena sfocata con spot sul tetto, formato 4:3). Modifiche richieste: eliminare le fasce luminose chiare lungo il bordo campo e applicare il trattamento cromatico naturale navy/blu notte con dettagli turchese, come nelle approvate. Nessun cambio di scena o inquadratura.
+
+| # | Trattamento | PNG |
+|---|-------------|-----|
+| T27 | Fasce rimosse, grade unificato navy/blu notte su tutta la foto (modello Shanghai), turchese solo nelle alte luci del fondo campo e sul bordo della pallina, spot del tetto conservati | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_110223_08a752ec-f046-478f-979e-9311315fdd07.png |
+| T28 | Come sopra ma più scura e cupa: pubblico come massa blu, vignetta naturale sull'angolo alto-sx | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_110223_9aa4bac0-2fe8-4af4-a875-93a9fa0ee295.png |
+| T29 | Fasce rimosse, tinta turchese portata dagli spot esistenti (modello Six Kings): alte luci fredde su feltro, linea e campo vicino, resto navy | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_110223_0ae5a717-f107-4601-aef5-e3aa65d5334a.png |
+| T30 | Seconda generazione di T29 (stesso prompt), da confrontare | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_110430_e65c3470-03e5-4f30-b96b-7c870210bf13.png |

@@ -48,3 +48,8 @@ Usa questo file quando l'utente parla di SNAI, tennis, Parigi/Torino o "le grafi
 ## Serie 10 (22/09): Torino "troppo scolastica"
 - Lezione: quando la scena base è piatta (pallina sulla baseline con luce frontale), nessun grading la salva. Serve rifare l'art direction: camera a filo campo, luce direzionale scolpita (key fredda + controluce colorato che disegna il rim e l'ombra lunga), micro-texture leggibile, un "momento" (rimbalzo congelato con polvere) invece di una posa. Prompt con vocabolario da produzione: "premium advertising photograph, medium format, 100mm f/2, editorial retouching quality, tack sharp, micro-contrast".
 - Reference doppia utile: immagine promossa dal cliente (soggetto/palette) + approvata di craft più alto (Six Kings) per il livello di luce e texture.
+
+## Serie 11 (22/09): regola ferrea sulle correzioni
+- Errore da non ripetere: quando il cliente chiede di "modificare" una grafica, l'inquadratura e la scena restano quelle. Non proporre concept nuovi al posto della correzione; i concept nuovi si offrono a parte, se richiesti.
+- Chiedere sempre all'utente il file esatto da correggere (può essere diverso dall'ultima generazione: qui la base Torino era un'immagine 4:3 con arena piena e spot sul tetto, non il job T7). Caricarla con media_upload dal disco locale (funziona) e usarla come prima reference; approvata come seconda reference solo per il grading.
+- Aspect ratio della generazione = aspect ratio della base (qui 4:3), altrimenti il modello reinquadra.
