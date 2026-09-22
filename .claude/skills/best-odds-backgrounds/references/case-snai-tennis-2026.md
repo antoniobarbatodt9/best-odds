@@ -24,3 +24,9 @@ Usa questo file quando l'utente parla di SNAI, tennis, Parigi/Torino o "le grafi
 ## Lezioni tecniche
 - Il CDN Higgsfield e Commons sono bloccati dal proxy locale: QA e descrizione reference via slideshow + video analysis (vedi playbook).
 - `media_import_url` vuole URL diretti di Commons (thumb.wikimedia.org), non Special:FilePath.
+
+## Feedback del 22/09 (serie 6)
+- SNAI: le due nuove creatività (Parigi P28 palo rete + racchetta; Torino T7 pallina sulla baseline) "vanno molto meglio", ma le strisce LED illuminate "sono in contrasto con le grafiche precedenti approvate". Chiesto di lavorare su "sfumature, bagliori e cose simili, come nelle grafiche che ci piacciono molto" (Shanghai, Six Kings Slam).
+- Regola: mai fasce/strisce LED o bokeh a punti; lo sfondo è un gradiente morbido con bloom diffuso nel colore del brief (Parigi verde scuro su nero, Torino turchese tenue su navy/blu notte); la scena scelta dal cliente non si tocca.
+- Tecnica: edit con `nano_banana_pro` passando il `job_id` dell'immagine scelta come `image_references` e prompt "Edit the reference image while keeping its exact composition ... remove ... replace the background with a smooth gradient and diffuse glow". Tre gradi: fedele, atmosferica, reinterpretata.
+- Nota operativa: due job del batch sono rimasti "in_progress" oltre 5 minuti; rilanciati come nuovi job con stesso prompt (funziona, non attendere all'infinito).

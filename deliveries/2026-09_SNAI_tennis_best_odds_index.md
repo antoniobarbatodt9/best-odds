@@ -93,3 +93,25 @@ Ogni concept ha un'idea emotiva, un aggancio all'identità del torneo (notte ind
 | P26 | Novembre a La Défense | Esterno dell'arena moderna che brilla di verde sotto la pioggia, grattacieli di vetro che riflettono: la nuova casa del torneo | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260918_112059_34670a58-99e5-4d0a-9d62-65ba3c13a7e5.png |
 | P27 | Il posto vuoto | Dalle tribune vuote in alto, il campo piccolo e luminoso in basso: scala e attesa | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260918_112059_a3a4ad26-17b9-4db3-8dd6-e391e9e47125.png |
 | P28 | Il nastro della rete | Macro rete e palo con racchetta appoggiata, LED verde in bokeh: dettaglio tattile | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260918_112059_cbc448b2-458f-4651-b7ce-777bf2a0039b.png |
+
+---
+
+# SERIE 6 – Feedback SNAI del 22/09: via le strisce LED, dentro sfumature e bagliori
+
+Regole derivate dal feedback: (1) nessuna striscia/fascia LED, nessun bokeh a punti; (2) sfondo a gradiente morbido con bagliore diffuso ("come Shanghai e Six Kings Slam"); (3) colore del bagliore = palette del brief: Parigi verde scuro su nero, Torino turchese tenue su navy/blu notte; (4) scena, soggetto e inquadratura restano quelle scelte da SNAI (Parigi: palo rete + racchetta; Torino: pallina sulla baseline). Generate in modalità edit usando le due immagini scelte come reference.
+
+## Masters 1000 Parigi (da P28)
+
+| # | Variante | Cosa cambia | PNG |
+|---|----------|-------------|-----|
+| P29 | Fedele | Stessa scena; LED e bokeh rimossi; gradiente nero → bagliore verde smeraldo diffuso in basso nella foschia | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_094742_8a4f2328-7066-4e29-8e0b-61dcedf0ed03.png |
+| P30 | Atmosferica | Come sopra, più scura; foschia verde che sale dal fondo campo e avvolge la base della rete; bloom radiale dietro il palo; vignetta sull'angolo alto-sx | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_094259_dd5a25af-9e47-4b88-86c8-52613713685d.png |
+| P31 | Reinterpretata | Stesso soggetto; sfondo puro gradiente nero → verde scuro con ampio bagliore diffuso dietro la rete e rim light verde su nastro e telaio | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_094259_62956fb9-6e90-4ee6-872a-d7a60f838e5a.png |
+
+## ATP Finals Torino (da T7)
+
+| # | Variante | Cosa cambia | PNG |
+|---|----------|-------------|-----|
+| T11 | Fedele | Stessa scena; fascia LED rimossa; gradiente navy → blu notte con bagliore turchese diffuso in basso | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_094259_006ad252-21a7-4dfb-8362-8c4c82180a9f.png |
+| T12 | Atmosferica | Più scura; foschia turchese sul fondo campo, bloom radiale dietro la pallina, rim light turchese sul bordo alto della pallina, vignetta navy | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_094259_8eb6c66b-eb03-4e03-ab6c-ad9d4d0ab0c7.png |
+| T13 | Reinterpretata | Stesso soggetto; sfondo puro gradiente blu notte → navy con ampio bagliore turchese diffuso dietro la pallina | https://d8j0ntlcm91z4.cloudfront.net/user_3EONmop8cww9rMVZwg348pbhKh7/hf_20260922_094259_76072cd8-8f19-4229-8f2b-79c597805f0f.png |
